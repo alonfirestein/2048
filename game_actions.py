@@ -72,7 +72,7 @@ class Game_Actions:
 
         for i in range(4):
             for j in range(4):
-                if (self.gamepanel.gridCell[i][j] == 4):
+                if (self.gamepanel.gridCell[i][j] == 2048):
                     flag = 1
                     break
 
