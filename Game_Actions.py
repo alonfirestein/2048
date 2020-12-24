@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-from Game_Window import Game_Window
+from game_window import Game_Window
 import pyglet
 import random
 
