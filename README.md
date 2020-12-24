@@ -7,7 +7,7 @@ The rules are very simple if you don't already know them, you can read more clic
 
 
 # Running the program:  
-Clone this repository to your current working directory:
+Clone this repository to your current working directory:  
 `git clone https://github.com/alonfirestein/2048.git`
   
 Open your terminal and navigate to the directory the repository is at and run the program using the python command:
