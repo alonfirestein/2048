@@ -1,7 +1,8 @@
 # 2048 Game
 
-This was a small fun project of mine and to try and improve my python skills.
-In this project I built the popular [2048](https://en.wikipedia.org/wiki/2048_(video_game)) game.  
+This was a small fun project of mine and to try and improve my python skills.  
+In this project I built the popular [2048](https://en.wikipedia.org/wiki/2048_(video_game)) game.   
+  
 The rules are very simple if you don't already know them, you can read more click the link above, or you can learn them down below real quick.
 
 
@@ -14,7 +15,8 @@ Open your terminal and navigate to the directory the repository is at and run th
 For Mac/Linux users:  `python3 __init__.py`  
   
 For Windows users: `__init__.py`
-
+  
+*note: the name of the init file has two underscores before and after it.*  
 
 # Game Rules:  
   
